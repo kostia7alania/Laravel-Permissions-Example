@@ -1,0 +1,21 @@
+{
+    "sqltools.connections": [
+        {
+            "askForPassword": false,
+            "connectionTimeout": 30,
+            "database": "kostia7forum",
+            "dialect": "MSSQL",
+            "domain": null,
+            "name": "102",
+            "password": "0133vfhb,jh",
+            "port": 1433,
+            "server": "192.168.202.102",
+            "username": "sa"
+        },
+        {
+            "database": ".\\database\\database.sqlite",
+            "dialect": "SQLite",
+            "name": "permissions"
+        }
+    ]
+}
